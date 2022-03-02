@@ -1,2 +1,1 @@
-#!/bin/bash
-"why me"
+my readmr file
