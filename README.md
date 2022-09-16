@@ -1,2 +1,1 @@
-# 0x05. Processes and signals
-Project of Bash, about Processes and Signals.
+# 0x0A-configuration_management Project
